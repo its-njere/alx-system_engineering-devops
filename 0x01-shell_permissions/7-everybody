@@ -1,2 +1,2 @@
 #!/bin/bash
-a+grx hello
+chmod 007 hello 
