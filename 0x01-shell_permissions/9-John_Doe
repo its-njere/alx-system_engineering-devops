@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt hello
+ls -d -l . hello 
